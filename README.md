@@ -1,2 +1,2 @@
 # Comparison-of-AES-DES-and-RSA 
-# Analsing which algorithm for message transferring
+# Analsing which algorithm is best for message transferring
